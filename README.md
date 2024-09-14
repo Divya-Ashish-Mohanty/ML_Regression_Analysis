@@ -28,9 +28,14 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 
 3. Follow the steps in the notebooks to preprocess data, train the linear regression model, and evaluate its performance.
 
+### Contributing
+Contributions are welcome! Please fork this repository, make your changes, and submit a pull request. Ensure your code is well-documented and follows the project's coding style.
+
 ### Acknowledgments:
 - **Pandas** and **NumPy** for data preprocessing.
 - **Scikit-learn** for providing linear regression tools.
 - **Matplotlib** and **Seaborn** for data visualization.
 
+### Contact
+For any questions or feedback, please contact Divya Ashish Mohanty at mohantydivyaashish@gmail.com.
 ---
